@@ -6,32 +6,6 @@ I'm a full-stack developer currently focused on building **global identity verif
 
 ---
 
-## 🧠 Technical Focus
-
-- **.NET MAUI (Android-first)**  
-  NFC-based ePassport reading with support for PACE, DG1, DG2 parsing, and secure session handshakes.
-
-- **ASP.NET Core**  
-  RESTful APIs for identity binding, QR-based session flows, and personal data verification using SSN and MRZ data.
-
-- **Razor MVC**  
-  Responsive frontends that reflect real-time verification status via secure polling, session tracking, and dynamic feedback.
-
-- **Cryptographic Tooling**  
-  Hands-on with `BouncyCastle`, secure messaging, APDU command building, and byte-level passport interaction.
-
----
-
-## 💼 Featured Projects
-
-### 🔐 VerifyIdentitySystem *(Prototype — In Development)*   
-> QR-triggered identity verification flow. Users scan a code, validate their passport via NFC, and the backend links the identity to their session live.  
-
-### 🚚 LorryGlory *(Prototype — In Development)*  
-> A modern operations management tool tailored for logistics and transportation companies handling heavy trucks.
-
----
-
 ## 🛠 Interests & Exploration
 
 - Everything related to Software Development, always learning more.
