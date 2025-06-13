@@ -1,3 +1,4 @@
+www.dennisbriffa.com
 
 ## 👤 About Me
 
@@ -24,9 +25,9 @@ I'm a full-stack developer currently focused on building **global identity verif
 ## 💼 Featured Projects
 
 ### 🔐 VerifyIdentitySystem *(Prototype — In Development)*   
-> QR-triggered identity verification flow.  
+> QR-triggered identity verification flow. Users scan a code, validate their passport via NFC, and the backend links the identity to their session live.  
 
-### 🚚 FleetOps Manager *(Prototype — In Development)*  
+### 🚚 LorryGlory *(Prototype — In Development)*  
 > A modern operations management tool tailored for logistics and transportation companies handling heavy trucks.
 
 ---
@@ -34,12 +35,6 @@ I'm a full-stack developer currently focused on building **global identity verif
 ## 🛠 Interests & Exploration
 
 - Everything related to Software Development, always learning more.
-
----
-
-> 🧬 *"Security is the bridge between trust and tech."*
-
-Let's connect if you're working on identity, security, or systems that need both reliability and edge-level control.
 
 ---
 
