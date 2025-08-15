@@ -1,12 +1,12 @@
 www.dennisbriffa.com
 
-## 👤 About Me
+## About Me
 
 I'm a full-stack developer currently focused on building **global identity verification system**, combining **mobile NFC technology**, **cryptography**, and **fullstack development**. My work spans from chip communication to scalable backend APIs and web interfaces.
 
 ---
 
-## 🛠 Interests & Exploration
+## Interests & Exploration
 
 - Everything related to Software Development, always learning more.
 
