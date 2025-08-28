@@ -1,20 +1,20 @@
-# Fullstack Developer
+# ⚜Fullstack Developer⚜
 
-## Portfolio:
+## 🧐Portfolio:
 https://dennis-portfolio-v2-nextjs.dennisbriffa87.workers.dev/
 <br/> 
-## My Best Skillsets: <br/> 
+## 🤤My Best Skills: <br/> 
 <br/> 
 <div align="center">
-  Backend:  <br/> 
+  ✍Backend:  <br/> 
   <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/_net_core.png" alt=".NET Core" title=".NET Core"/></code>
   <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" alt="C#" title="C#"/></code>
   <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" alt="SQLite" title="SQL"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mssql.png" alt="MSSQL" title="MSSQL"/></code>
-  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="REST" title="REST"/></code>  <br/> 
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mssql.png" alt="MSSQL" title="Microsoft Server"/></code>
+  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="REST" title="RESTful API"/></code>  <br/> 
 
  <br/>  
-  Frontend:  <br/> 
+  👋Frontend:  <br/> 
   <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/></code>
  	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="Next.js" title="Next.js"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/></code>
@@ -32,8 +32,8 @@ https://dennis-portfolio-v2-nextjs.dennisbriffa87.workers.dev/
 <br/> 
 <br/> 
 
-- 🔭 I’m currently working on personal projects (private repos atm).
-- 💬 Ask me about collabs or help with anything, if I'm able, I would love to help.
-- 📫 How to reach me: go to my portfolio and contact.
-- ⚡ Fun fact: Obsessed with armwrestling.
+- 🔭 I’m currently working on personal projects (private repos atm). 🔱
+- 💬 Ask me about collabs or help with anything, if I'm able, I would love to help. 🤓
+- 📫 How to reach me: go to my portfolio and contact, it's all there! 🤩
+- ⚡ Fun fact: Obsessed with armwrestling. 🦾
 
