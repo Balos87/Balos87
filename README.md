@@ -1,9 +1,9 @@
-Portfolio:
+##Portfolio:
 https://dennis-portfolio-v2-nextjs.dennisbriffa87.workers.dev/
 
-My Best Skillsets:
+##My Best Skillsets: <br/> 
 <div align="center">
-  Backend:  
+  Backend:  <br/> 
   <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/_net_core.png" alt=".NET Core" title=".NET Core"/></code>
   <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" alt="C#" title="C#"/></code>
   <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" alt="SQLite" title="SQLite"/></code>
