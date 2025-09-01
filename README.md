@@ -30,6 +30,6 @@ Portfolio: https://dennisbriffa.com/
 
 - 🔭 I’m currently working on personal projects (private repos atm). 
 - 💬 Ask me for help with anything, if I'm able, I would love to help. 
-- 📫 How to reach me, visit my linkedin and throw me a message.
+- 📫 How to reach me, visit my profile, enter contact, its all there.
 - ⚡ Fun fact: Obsessed with armwrestling. 💪💪💪
 
