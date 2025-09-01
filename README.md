@@ -1,9 +1,5 @@
-# ⚜Fullstack Developer⚜
-
-## 🧐Portfolio:
-https://dennis-portfolio-v2-nextjs.dennisbriffa87.workers.dev/
 <br/> 
-## 🤤My Best Skills: <br/> 
+## Skills: <br/> 
 <br/> 
 <div align="center">
   # 💾Backend:  <br/> 
@@ -14,7 +10,7 @@ https://dennis-portfolio-v2-nextjs.dennisbriffa87.workers.dev/
   <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="REST" title="RESTful API"/></code>  <br/> 
 
  <br/>  
-  # 🖥Frontend:  <br/> 
+  # Frontend:  <br/> 
   <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/></code>
  	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="Next.js" title="Next.js"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/></code>
@@ -24,7 +20,7 @@ https://dennis-portfolio-v2-nextjs.dennisbriffa87.workers.dev/
  	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code> <br/> 
 
  <br/>  
-# 🗃How I source-control:  <br/> 
+# Source-control:  <br/> 
 <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
  <br/> 
 </div>
@@ -32,8 +28,8 @@ https://dennis-portfolio-v2-nextjs.dennisbriffa87.workers.dev/
 <br/> 
 <br/> 
 
-- 🔭 I’m currently working on personal projects (private repos atm). 🔱
-- 💬 Ask me about collabs or help with anything, if I'm able, I would love to help. 🤓
-- 📫 How to reach me: go to my portfolio and contact, it's all there! 🤩
-- ⚡ Fun fact: Obsessed with armwrestling. 🦾
+- 🔭 I’m currently working on personal projects (private repos atm). 
+- 💬 Ask me for help with anything, if I'm able, I would love to help. 
+- 📫 How to reach me, visit my linkedin and throw me a message.
+- ⚡ Fun fact: Obsessed with armwrestling. 💪💪💪
 
