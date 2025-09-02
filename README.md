@@ -1,5 +1,9 @@
-Portfolio: https://dennisbriffa.com/
-(Under development, adding features as we speak)
+<strong>Portfolio:</strong>
+<a href="https://dennisbriffa.com/" target="_blank" rel="noopener noreferrer">
+  dennisbriffa.com ↗
+</a>
+<br/>
+<em>Under development, adding features as we speak</em>
 
 <div align="center">
   💾Backend:  <br/> 
